@@ -25,6 +25,7 @@
   <img align="center" alt="Bia-can" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Bia-bi" height="30" width="40"src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" />
   <img align="center" alt="Bia-c" height="30" width="40"src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+  <img align="center" alt="Bia-sql" height="30" width="40"src="https://img.icons8.com/?size=100&id=39858&format=png&color=000000" />
           
 </div>
 
