@@ -1,7 +1,14 @@
-### oiee! eu sou a Bia! 
+### oiee! eu sou a Bia! 👋
 
-- 📚 Ask me about my books 
-- 😄 Pronouns: ela/dela
+🎓 Estudante de computação na UEMG | 💻
+
+#### Interesses
+- Desenvolvimento Web
+- Ciência de Dados
+- IA
+
+📫 [LinkedIn](www.linkedin.com/in/bianca0liveira) | 
+
 
 <div align="center">
   <a href="https://github.com/bia0liveira">
